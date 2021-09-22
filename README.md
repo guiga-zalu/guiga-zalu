@@ -59,8 +59,8 @@
 
 (Some programming videos, in the future)
 
-<!--- YOUTUBE:START --->
-<!--- YOUTUBE:END --->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ---
 
