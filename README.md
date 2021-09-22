@@ -60,6 +60,9 @@
 (Some programming videos, in the future)
 
 <!-- YOUTUBE:START -->
+- [Resultado: Vídeo-memorial às mortes causadas pela COVID-19 no Brasil - Versão 3 Avermelhada](https://www.youtube.com/watch?v=z4bTUx2t1-A)
+- [Resultado: Vídeo-memorial às mortes causadas pela COVID-19 no Brasil - Versão 1](https://www.youtube.com/watch?v=d3xo4UVahx0)
+- [Resultado: Vídeo-memorial à vacinação contra o COVID-19](https://www.youtube.com/watch?v=x94_QmH58so)
 <!-- YOUTUBE:END -->
 
 ---
