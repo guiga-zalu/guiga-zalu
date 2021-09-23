@@ -12,6 +12,14 @@ by @guiga-zalu.
 - ⚡ What I like: Solve mathematical problems, represent visually concepts and develop code as if it'd become a full library
 - 🔭 Looking forward to whichiever there is to be learnt!
 
+## Main projects
+
+1. [Smart Pixelizer](https://github.com/guiga-zalu/smart-pixelizer) is my own lossy image compression algorithm!  
+1. [DeepJS](https://github.com/guiga-zalu/deepjs) will, in the future, be a (totally in JavaScript) generic deep learning library! Today, it can realize:
+   + N-dimensional tensor representation as one array-like variable
+   + N-dimensional convolution & pooling, with a (a, b, c, ...)-shaped tensor to a (z, y, x, ...)-shaped one
+1. [Simple Shows](https://github.com/guiga-zalu/simple-shows): a set of HTML/JS/CSS (+ advanced versions) demonstrations for concepts & cool ideas; like `raio`, a atmosferic-to-ground lightning path simlulator!
+
 ## Discover about me:
 
 [<img align="left" alt="guilherme.zaluchi.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -19,7 +27,9 @@ by @guiga-zalu.
 [<img align="left" alt="GZaluchi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Guilherme A C Zaluchi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-## Work / play tools
+<br /><br />
+
+### Work / play tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -59,7 +69,7 @@ by @guiga-zalu.
 <hr />
 <br />
 
-## My YouTube Channel
+### My YouTube Channel
 
 (Some programming videos, in the future)
 
