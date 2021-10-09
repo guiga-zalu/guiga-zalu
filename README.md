@@ -83,6 +83,7 @@ by @guiga-zalu.
 ## My Recent Activities
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3](https://github.com/GoulartNogueira/BadUI/pull/3) no repositório [GoulartNogueira/BadUI](https://github.com/GoulartNogueira/BadUI)
 <!--END_SECTION:activity-->
 
 ---
