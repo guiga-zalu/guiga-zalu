@@ -1,4 +1,4 @@
-name: Update README
+name: Atualizar README.md
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Atualizar a README deste repositório com as atividades recentes
 
     steps:
       - uses: actions/checkout@v2
@@ -16,6 +16,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Specify a custom commit message'
+          COMMIT_MSG: 'Últimas ações'
           MAX_LINES: 12
           LANG: 'pt-BR'

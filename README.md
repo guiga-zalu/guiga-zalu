@@ -80,7 +80,7 @@ by @guiga-zalu.
 - [Resultado: Vídeo-memorial à vacinação contra o COVID-19](https://www.youtube.com/watch?v=x94_QmH58so)
 <!-- YOUTUBE:END -->
 
-## My Recent Activities
+### :zap: My Recent Activities
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#3](https://github.com/GoulartNogueira/BadUI/pull/3) no repositório [GoulartNogueira/BadUI](https://github.com/GoulartNogueira/BadUI)
