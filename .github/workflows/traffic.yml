@@ -35,3 +35,4 @@ jobs:
         commiter_email: bô@guilherme.zaluchi.com.br
         message: "GitHub traffic"
         add: "./traffic/*"
+        ref: "traffic"  # commits to branch "traffic" 
