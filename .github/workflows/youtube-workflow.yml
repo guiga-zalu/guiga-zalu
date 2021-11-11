@@ -2,8 +2,8 @@ name: YouTube videos
 on:
   schedule:
     # "minute hour day month weekday"
-    # Every hour
-    - cron: "0 0 * * *"
+    # runs once a week on sunday
+    - cron: "0 1 * * 0"
   workflow_dispatch:
     
 jobs:
