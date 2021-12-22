@@ -83,7 +83,7 @@ by @guiga-zalu.
 ### :zap: My Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/GoulartNogueira/BadUI/pull/3) no repositório [GoulartNogueira/BadUI](https://github.com/GoulartNogueira/BadUI)
+1. 🗣 Comentou em [#77](https://github.com/rohanb10/snoozz-tab-snoozing/issues/77) no repositório [rohanb10/snoozz-tab-snoozing](https://github.com/rohanb10/snoozz-tab-snoozing)
 <!--END_SECTION:activity-->
 
 ---
