@@ -83,7 +83,7 @@ by @guiga-zalu.
 ### :zap: My Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Comentou em [#77](https://github.com/rohanb10/snoozz-tab-snoozing/issues/77) no repositório [rohanb10/snoozz-tab-snoozing](https://github.com/rohanb10/snoozz-tab-snoozing)
+1. ❗️ Opened : questão [#5](https://github.com/biglinux/biglinux-webapps/issues/5) no repositório [biglinux/biglinux-webapps](https://github.com/biglinux/biglinux-webapps)
 <!--END_SECTION:activity-->
 
 ---
