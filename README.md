@@ -74,10 +74,11 @@ by @guiga-zalu.
 (Some programming videos, in the future)
 
 <!-- YOUTUBE:START -->
+- [Demo test - Pixlzr - quadtree: multiplier](https://www.youtube.com/watch?v=2TG6TZhhG2c)
+- [Demo test - Pixlzr - full quadtree: multiplier](https://www.youtube.com/watch?v=D_LZipZ8zKs)
 - [Smart Pixelizer - Compressing test](https://www.youtube.com/watch?v=TjhU9yTquRU)
 - [Resultado: Vídeo-memorial às mortes causadas pela COVID-19 no Brasil - Versão 3 Avermelhada](https://www.youtube.com/watch?v=z4bTUx2t1-A)
 - [Resultado: Vídeo-memorial às mortes causadas pela COVID-19 no Brasil - Versão 1](https://www.youtube.com/watch?v=d3xo4UVahx0)
-- [Resultado: Vídeo-memorial à vacinação contra o COVID-19](https://www.youtube.com/watch?v=x94_QmH58so)
 <!-- YOUTUBE:END -->
 
 ### :zap: My Recent Activities
