@@ -7,8 +7,6 @@ by @guiga-zalu
 [![Website](https://img.shields.io/website?label=guilherme.zaluchi.com.br&style=for-the-badge&url=https%3A%2F%2Fguilherme.zaluchi.com.br)][website]
 [![Follow me on Twitter](https://img.shields.io/twitter/follow/GZaluchi?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter_follow]
 
-[![Meus Estatus](https://github-stats-evirunurm.vercel.app/api/stats.js?username=guiga-zalu)](https://github.com/evirunurm/github-stats)
-
 ## I'm a Student & a Developer
 
 - 👯 I’m looking to become a frequent content creator
