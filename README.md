@@ -101,7 +101,7 @@ Agora, estudando Rust!
 ### :zap: My Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened : questão [#1](https://github.com/RCcola1987/Archival-Preservation/issues/1) no repositório [RCcola1987/Archival-Preservation](https://github.com/RCcola1987/Archival-Preservation)
+1. 🗣 Comentou em [#1](https://github.com/guiga-zalu/pixlzr-rust/issues/1) no repositório [guiga-zalu/pixlzr-rust](https://github.com/guiga-zalu/pixlzr-rust)
 <!--END_SECTION:activity-->
 
 ---
