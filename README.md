@@ -101,7 +101,7 @@ Agora, estudando Rust!
 ### :zap: My Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Comentou em [#1](https://github.com/guiga-zalu/pixlzr-rust/issues/1) no repositório [guiga-zalu/pixlzr-rust](https://github.com/guiga-zalu/pixlzr-rust)
+1. ❗️ Closed : questão [#1](https://github.com/guiga-zalu/pixlzr-rust/issues/1) no repositório [guiga-zalu/pixlzr-rust](https://github.com/guiga-zalu/pixlzr-rust)
 <!--END_SECTION:activity-->
 
 ---
