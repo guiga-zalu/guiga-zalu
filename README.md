@@ -2,17 +2,16 @@ by @guiga-zalu
 
 [![guiga zalu](https://github-stats-evirunurm.vercel.app/api/stats.js?username=guiga-zalu&peng=false)](https://github.com/evirunurm/github-stats)
 
-# Guilherme A C Zaluchi [aka. guiga-zalu [aka. zekkious]]
+# Guilherme A C Zaluchi
 
-[![Website](https://img.shields.io/website?label=guilherme.zaluchi.com.br&style=for-the-badge&url=https%3A%2F%2Fguilherme.zaluchi.com.br)][website]
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/GZaluchi?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter_follow]
+<!---[![Website](https://img.shields.io/website?label=guilherme.zaluchi.com.br&style=for-the-badge&url=https%3A%2F%2Fguilherme.zaluchi.com.br)][website]--->
+<!---[![Follow me on Twitter](https://img.shields.io/twitter/follow/GZaluchi?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter_follow]--->
 
 ## I'm a Student & a Developer
 
-- 👯 I’m looking to become a frequent content creator
-- 🥅 ~2021~ 2023 Goals: Start _really_ developing my YouTube channel
-- ⚡ What I like: Solve mathematical problems, represent visually concepts and develop code as if it'd become a full library
-- 🔭 Looking forward to whichiever there is to be learnt!
+<!---- 👯 I’m looking to become a frequent content creator
+- 🥅 ~2021~ 2023 Goals: Start _really_ developing my YouTube channel--->
+⚡ I like: Solve mathematical problems, represent visually concepts and develop code as if it'd become a full library
 
 ## My main projects
 
@@ -27,7 +26,7 @@ by @guiga-zalu
 ### Main nowadays project
 
 1. [Pixlzr](https://github.com/guiga-zalu/pixlzr-rust) is Smart Pixelizer, but working well and in Rust!  
-2. [Nanite Reconstructor](https://github.com/guiga-zalu/nanite-reconstructor) will be a way to reconstruct, remmend and attach images into a possiblities canvas!
+<!---2. [Nanite Reconstructor](https://github.com/guiga-zalu/nanite-reconstructor) will be a way to reconstruct, remmend and attach images into a possiblities canvas!--->
 
 ## Where to discover about me
 
@@ -63,10 +62,6 @@ by @guiga-zalu
 <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
-DAX
-
-M
-
 <br /><br />
 
 #### Language Tools
@@ -80,23 +75,12 @@ M
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
-Agora, estudando Rust!
+Agora, estudando Rust!  
+_Now, studying Rust!_
 
 <br />
 <hr />
 <br />
-
-### My YouTube Channel
-
-(Some programming videos, in the \[far\] future)
-
-<!-- YOUTUBE:START -->
-- [Bad Pixel : Bad Apple through Pixlzr](https://www.youtube.com/watch?v=hqCZJAUduBc)
-- [Demo test - Pixlzr - quadtree: multiplier](https://www.youtube.com/watch?v=2TG6TZhhG2c)
-- [Demo test - Pixlzr - full quadtree: multiplier](https://www.youtube.com/watch?v=D_LZipZ8zKs)
-- [Smart Pixelizer - Compressing test](https://www.youtube.com/watch?v=TjhU9yTquRU)
-- [Resultado: Vídeo-memorial às mortes causadas pela COVID-19 no Brasil - Versão 3 Avermelhada](https://www.youtube.com/watch?v=z4bTUx2t1-A)
-<!-- YOUTUBE:END -->
 
 ### :zap: My Recent Activities
 
@@ -114,5 +98,7 @@ Agora, estudando Rust!
 [linkedin]: https://www.linkedin.com/in/guilherme-alves-c-zaluchi/
 
 <p align="center">
-  <h2 align="center">Número de Visitas <img align="center" src="https://profile-counter.glitch.me/guiga-zalu.guiga-zalu/count.svg" alt="Número de Visitas" /></h2>
+  <h4 align="center">Número de Visitas: <img align="center" src="https://profile-counter.glitch.me/guiga-zalu.guiga-zalu/count.svg" alt="Número de Visitas" /></h4>
+   <br>
+  <h4 align="center"># Visits: <img align="center" src="https://profile-counter.glitch.me/guiga-zalu.guiga-zalu/count.svg" alt="# Visits" /></h4>
 </p>
