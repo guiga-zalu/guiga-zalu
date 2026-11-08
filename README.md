@@ -85,7 +85,7 @@ _Now, studying Rust!_
 ### :zap: My Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Comentou em [#1](https://github.com/DrParadox7/Waystones/issues/1) no repositório [DrParadox7/Waystones](https://github.com/DrParadox7/Waystones)
+1. 🗣 Comentou em [#140](https://github.com/DrParadox7/Lost-Era-Modpack/issues/140) no repositório [DrParadox7/Lost-Era-Modpack](https://github.com/DrParadox7/Lost-Era-Modpack)
 <!--END_SECTION:activity-->
 
 ---
